@@ -1,3 +1,7 @@
+choose a folder, then "git clone https://github.com/chengtie/mini-mean.git"
+
+"cd mini-mean"
+
 type "npm install" to install
 
 then "npm start"
